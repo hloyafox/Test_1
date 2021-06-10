@@ -1,0 +1,27 @@
+.row {
+    margin: 0px 0px 0px 20px;
+}
+
+.header {
+    margin-bottom: 20px;
+    border-bottom: 3px double green;
+    background-color: honeydew;
+    width: 100%;
+
+}
+
+.sidebar {
+    height: 100%;
+    background-color: honeydew;
+    border: 1px solid green;
+
+
+}
+.content {
+    height: 100%;
+    background-color: honeydew;
+    background-size: cover;
+    border: 1px solid green;
+
+}
+
